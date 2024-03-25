@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Zongze Li, an undergraduate student at the School of Computer Science and Technology, Huazhong University of Science and Technology.
 
 <!--
 **zongze-lee/zongze-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
