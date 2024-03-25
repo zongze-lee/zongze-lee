@@ -2,7 +2,10 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=zongze-lee&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zongze-lee&layout=compact&theme=tokyonight)
 
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=zongze-lee&theme=dracula)
 
 You're my ![Visitor Count](https://profile-counter.glitch.me/zongze-lee/count.svg) visitor, thank you!
 <!--
