@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Zongze Li😄
 
+![](https://github-readme-stats.vercel.app/api?username=zongze-lee&show_icons=true&theme=transparent)
+
 <!--
 **zongze-lee/zongze-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
