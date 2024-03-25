@@ -1,24 +1,11 @@
 ### Hi there 👋, I'm Zongze Li😄
 
+- 😊 I'm currently an undergraduate student at the School of Computer Science and Technology, Huazhong University of Science and Technology (HUST).
+- 😺 Photography and cats are my favourite.
+- 📫 email: u202215316@hust.edu.cn | Wechat: Zongze-Lee | QQ: 162233849
 
-![](https://github-readme-stats.vercel.app/api?username=zongze-lee&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zongze-lee&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=zongze-lee&show_icons=true&theme=transparent" height="180px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongze-lee&layout=compact" height="180px">
 
+### My Skill Set
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=zongze-lee&theme=dracula)
-
-You're my ![Visitor Count](https://profile-counter.glitch.me/zongze-lee/count.svg) visitor, thank you!
-<!--
-**zongze-lee/zongze-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=assembly&logoColor=white) ![](https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=C&logoColor=white) ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
