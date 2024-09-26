@@ -2,7 +2,7 @@
 
 - 😊 I'm currently an undergraduate student at the School of Computer Science and Technology, Huazhong University of Science and Technology (HUST).
 - 😺 Cats are my favourite.
-- 📫 email: zongzeli@hust.edu.cn | Wechat: Zongze-Lee
+- 📫 email: zongzeli@hust.edu.cn | Wechat: zongze062
 
 <img src="https://github-readme-stats.vercel.app/api?username=zongze-lee&show_icons=true&theme=transparent" height="180px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zongze-lee&layout=compact" height="180px">
 
